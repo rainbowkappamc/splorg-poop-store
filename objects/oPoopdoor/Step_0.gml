@@ -1,0 +1,1 @@
+if place_meeting(x,y,oTeal) and global.key_down room = Poop1
