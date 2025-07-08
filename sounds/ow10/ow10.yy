@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"ow10",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.018776,
+  "name":"ow10",
+  "parent":{
+    "name":"ouch",
+    "path":"folders/Sounds/ouch.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"ow10.mp3",
+  "type":0,
+  "volume":1.0,
+}
